@@ -18,7 +18,7 @@ Full-gene PCA achieved the highest ARI in three of five samples, while selecting
 
 **Human DLPFC — 10x Genomics Visium**
 
-[Google Drive Link](https://drive.google.com/file/d/13en8pnvkDfc1i_NuzWA0qza_eqvCAHJz/view?usp=sharing)
+[Report Link](https://drive.google.com/file/d/13en8pnvkDfc1i_NuzWA0qza_eqvCAHJz/view?usp=sharing)
 
 ## Repository Contents
 
